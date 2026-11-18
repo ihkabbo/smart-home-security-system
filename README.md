@@ -89,4 +89,6 @@ The testing results confirmed that the system performed the required security op
 - [Smart_Home_Security_System_report.pdf](./Smart_Home_Security_System_report.pdf) – Project documentation and report.
 ## Author
 
-Developed as an academic project using Arduino UNO and embedded-system concepts.
+**Developed by:** Md. Imran Hossen
+
+Academic project focused on Arduino programming, embedded systems, and smart home security.
