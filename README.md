@@ -85,9 +85,8 @@ The testing results confirmed that the system performed the required security op
 
 ## Project Files
 
-- `Smart_Home_Security_System.ino` – Complete Arduino source code.
-- `Smart_Home_Security_System_report.pdf` – Project documentation and report.
-
+- [Smart_Home_Security_System.ino](./Smart_Home_Security_System.ino) – Complete Arduino source code.
+- [Smart_Home_Security_System_report.pdf](./Smart_Home_Security_System_report.pdf) – Project documentation and report.
 ## Author
 
 Developed as an academic project using Arduino UNO and embedded-system concepts.
